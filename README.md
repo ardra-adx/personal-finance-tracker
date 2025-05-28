@@ -6,9 +6,8 @@ packages:
  pip install pandas tabulate
  datetime
 
- SQLite3 is used to give us a local database that's portable
-
- need to setuo a database first
+ SQLite3 is used to give us a local database that's portablEe#
+ #need to setuo a database first
   primary key -used to store the data
 
   then categorize 
@@ -28,4 +27,6 @@ packages:
   month,year should be given 
   output displayed
 
-  
+Demo Screenshot
+![Screenshot from 2025-05-28 15-27-40](https://github.com/user-attachments/assets/9d7dc6ab-7f39-4f53-94f9-273891ba7bfd)
+![Screenshot from 2025-05-28 15-27-20](https://github.com/user-attachments/assets/cc2b3281-f6ca-4657-ba22-a6d54434dee1)
